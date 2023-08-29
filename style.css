@@ -1,0 +1,17 @@
+body {background-color: black;}
+h1{ text-transform: uppercase;
+font-size: 3rem;}
+
+.poster{
+    width: 50%;
+    margin: 20%;
+    margin-top: 100px;
+    color: aliceblue;
+    font-family: 'Bebas Neue', sans-serif;
+font-family: 'Tilt Prism', cursive;
+text-align: center;
+
+}
+#bears{border: 10px solid white;
+width: 100%;}
+
